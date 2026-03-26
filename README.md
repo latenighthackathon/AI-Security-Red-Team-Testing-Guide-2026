@@ -1,4 +1,4 @@
-# Red Team Testing Guide for AI Chatbots and Voice Agents
+# Red Team Testing Guide for AI Chatbots and Agents
 
 **By: [latenighthackathon](https://github.com/latenighthackathon)**
 
